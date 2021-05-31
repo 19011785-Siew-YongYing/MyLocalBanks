@@ -3,17 +3,16 @@
     <string name="dbsBank">DBS</string>
     <string name="ocbcBank">OCBC</string>
     <string name="uobBank">UOB</string>
-    <string name="dbsWeb">https://www.dbs.com.sg</string> <!-- ENHANCEMENTS -->
-    <string name="ocbcWeb">https://www.ocbc.com</string> <!-- ENHANCEMENTS -->
-    <string name="uobWeb">https://www.uob.com.sg</string> <!-- ENHANCEMENTS -->
-    <string name="dbsContact">18001111111</string> <!-- ENHANCEMENTS -->
-    <string name="ocbcContact">18003633333</string> <!-- ENHANCEMENTS -->
-    <string name="uobContact">18002222121</string> <!-- ENHANCEMENTS -->
-    <!-- ENHANCEMENTS -->
-    <string name="english">English</string>
-    <string name="chinese">Chinese</string>
+    <string name="dbsWeb">https://www.dbs.com.sg</string> <!-- Newly Added (Originally Hardcoded) -->
+    <string name="ocbcWeb">https://www.ocbc.com</string> <!-- Newly Added (Originally Hardcoded) -->
+    <string name="uobWeb">https://www.uob.com.sg</string> <!-- Newly Added (Originally Hardcoded) -->
+    <string name="dbsContact">18001111111</string> <!-- Newly Added (Originally Hardcoded) -->
+    <string name="ocbcContact">18003633333</string> <!-- Newly Added (Originally Hardcoded) -->
+    <string name="uobContact">18002222121</string> <!-- Newly Added (Originally Hardcoded) -->
+    <string name="english">English</string> <!-- ENHANCEMENTS -->
+    <string name="chinese">Chinese</string> <!-- ENHANCEMENTS -->
     <string name="dbsChi">星展银行</string> <!-- ENHANCEMENTS -->
     <string name="ocbcChi">华侨银行</string> <!-- ENHANCEMENTS -->
     <string name="uobChi">大华银行</string> <!-- ENHANCEMENTS -->
-    <string name="error">Error translation</string>
+    <string name="error">Error translation</string> <!-- Extra -->
 </resources>

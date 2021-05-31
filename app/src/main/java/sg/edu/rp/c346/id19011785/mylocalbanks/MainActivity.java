@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
         else {
-            text1.setText(R.string.error); // ENHANCEMENTS
+            text1.setText(R.string.error); // Extra
             text2.setText(R.string.error);
             text3.setText(R.string.error);
         }
