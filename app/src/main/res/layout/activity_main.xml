@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#FFFFFF"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -11,30 +12,36 @@
         android:id="@+id/bank1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
         android:layout_weight="1"
-        android:textAlignment="center"
+        android:fontFamily="@font/bubblegum_sans"
+        android:gravity="center_horizontal"
         android:text="@string/dbsBank"
-        android:gravity="center" />
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="30sp" />
 
     <TextView
         android:id="@+id/bank2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
         android:layout_weight="1"
-        android:textAlignment="center"
+        android:fontFamily="@font/bubblegum_sans"
+        android:gravity="center_horizontal"
         android:text="@string/ocbcBank"
-        android:gravity="center" />
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="30sp" />
 
     <TextView
         android:id="@+id/bank3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
         android:layout_weight="1"
-        android:textAlignment="center"
+        android:fontFamily="@font/bubblegum_sans"
+        android:gravity="center_horizontal"
         android:text="@string/uobBank"
-        android:gravity="center" />
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="30sp" />
 
 </LinearLayout>
